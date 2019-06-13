@@ -10,6 +10,7 @@ yapf = "*"
 [packages]
 django = "*"
 graphene-django = "*"
+pyyaml = "*"
 
 [requires]
 python_version = "3.7"
