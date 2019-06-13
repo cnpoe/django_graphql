@@ -1,6 +1,4 @@
-***
-    run from container:
-***
+## run from container:
 
 ```
     docker image build . -f Dockerfile -t graphene-django_app:1.0
