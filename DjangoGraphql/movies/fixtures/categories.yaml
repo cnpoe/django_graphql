@@ -1,0 +1,40 @@
+- model: movies.Category
+  pk: 1
+  fields:
+    name: "Terror"
+- model: movies.Category
+  pk: 2
+  fields:
+    name: "Suspense"
+- model: movies.Category
+  pk: 3
+  fields:
+    name: "Drama"
+- model: movies.Category
+  pk: 4
+  fields:
+    name: "Comedy"
+- model: movies.Category
+  pk: 5
+  fields:
+    name: "Art"
+- model: movies.Category
+  pk: 6
+  fields:
+    name: "Action"
+- model: movies.Category
+  pk: 7
+  fields:
+    name: "Animation"
+- model: movies.Category
+  pk: 8
+  fields:
+    name: "Science fiction"
+- model: movies.Category
+  pk: 9
+  fields:
+    name: "Documental"
+- model: movies.Category
+  pk: 10
+  fields:
+    name: "Series"

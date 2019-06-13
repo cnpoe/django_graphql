@@ -1,0 +1,63 @@
+- model: movies.Movie
+  pk: 1
+  fields:
+    name: "Up"
+    year: 2010
+    rating: 4
+    category: 7
+- model: movies.Movie
+  pk: 2
+  fields:
+    name: "2001 Space Odyssey"
+    year: 1960
+    rating: 5
+    category: 8
+- model: movies.Movie
+  pk: 3
+  fields:
+    name: "Shrek"
+    year: 2006
+    rating: 2
+    category: 7
+- model: movies.Movie
+  pk: 4
+  fields:
+    name: "Carnage"
+    year: 2010
+    rating: 3
+    category: 3
+- model: movies.Movie
+  pk: 5
+  fields:
+    name: "Constantine"
+    year: 2010
+    rating: 2
+    category: 6
+- model: movies.Movie
+  pk: 6
+  fields:
+    name: "American gods"
+    year: 2017
+    rating: 3
+    category: 10
+- model: movies.Movie
+  pk: 7
+  fields:
+    name: "Cuernavaca"
+    year: 2018
+    rating: 2
+    category: 5
+- model: movies.Movie
+  pk: 8
+  fields:
+    name: "La historia oficial"
+    year: 1971
+    rating: 5
+    category: 5
+- model: movies.Movie
+  pk: 9
+  fields:
+    name: "Volver"
+    year: 2006
+    rating: 4
+    category: 5
